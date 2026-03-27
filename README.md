@@ -40,7 +40,7 @@
   <div class="container">
     <h2>Contact Us</h2>
     <p>Email: info@baitulazim.org</p>
-    <p>Phone: +234 XXX XXX XXXX</p>
+    <p>Phone: +234 7061435338</p>
     <a href="#" class="btn">Get Involved</a>
   </div>
 </section><footer>
